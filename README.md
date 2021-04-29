@@ -1,6 +1,6 @@
-# Project Title
+# Cara Membuat Website
 
-One Paragraph of project description goes here
+Domain ini punyanya udden ea
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Explain how to run the automated tests for this system
 Explain what these tests test and why
 
 ```
-Give an example
+Apa Hayoo
 ```
 
 ### And coding style tests
